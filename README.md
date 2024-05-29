@@ -4,7 +4,7 @@ This Python script, `edgar-8k105.py`, is designed to fetch and analyze SEC filin
 
 More on our blog at:
 
-- https://blog.kulkan.com/XXXXXXXXXXXXXXXXXXXXXXXXXX
+- https://blog.kulkan.com/analyzing-8-k-filings-pertaining-to-material-cybersecurity-incidents-using-our-new-edgar-8k105-tool-852e955b099b
 
 ![Edgar8K105](screencapture.png?raw=true "Edgar-8k105")
 
